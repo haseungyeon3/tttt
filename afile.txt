@@ -1,0 +1,4 @@
+## tttt
+this repo is temporary one to test git init
+
+
